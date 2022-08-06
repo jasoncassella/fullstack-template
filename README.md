@@ -19,7 +19,7 @@
 9. Create Public and Views folders - add main.js and style.css to Public and index.ejs to Views
 
 10. Create heroku repo
-
+// remove env variables
 // heroku login
 // heroku create simple-rap-api
 // echo "web: node server.js" > Procfile
@@ -28,3 +28,5 @@
 // git push heroku main
 
 //----Test Heroku Link
+
+// add back env variables
