@@ -18,9 +18,7 @@
 
 9. Create Public and Views folders - add main.js and style.css to Public and index.ejs to Views
 
-10. From root, init local git repo and commit
-
-11. Create heroku repo
+10. Create heroku repo
 
 // heroku login
 // heroku create simple-rap-api
