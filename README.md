@@ -21,7 +21,7 @@
 10. Create heroku repo
 // remove env variables
 // heroku login
-// heroku create simple-rap-api
+// heroku create
 // echo "web: node server.js" > Procfile
 // git add . 
 // git commit -m "changes"
