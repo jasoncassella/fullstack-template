@@ -3,10 +3,11 @@ const app = express();
 const cors = require('cors');
 const MongoClient = require('mongodb').MongoClient;
 const PORT = 8000;
+const dbConnectionString = 'mongodb+srv://jrupp:nGKhaMP4qN7aSR2y@cluster0.ljhll.mongodb.net/?retryWrites=true&w=majority';
 require('dotenv').config();
 
 let db,
-  dbConnectionString = process.env.DB_STRING,
+  // dbConnectionString = process.env.DB_STRING,
   dbName = 'sample_mflix',
   collection;
 
