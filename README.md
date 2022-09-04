@@ -1,6 +1,6 @@
 # steps to building a crud app template
 
-1. Initialize npm and install dependencies (express, dotenv, cors, mongodb, ejs, nodemon (--save-dev))
+- [ ] Initialize npm and install dependencies (express, dotenv, cors, mongodb, ejs, nodemon (--save-dev))
 
 2. Require dependencies in server.js
 
