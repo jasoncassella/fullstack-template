@@ -19,13 +19,13 @@
 - [ ] Create Public and Views folders - add main.js and style.css to Public and index.ejs to Views
 
 - [ ] Create heroku repo
-// remove env from gitignore
-// heroku login
-// heroku create
-// echo "web: node server.js" > Procfile
-// git add . 
-// git commit -m "changes"
-// git push heroku main
+- remove env from gitignore
+- heroku login
+- heroku create
+- echo "web: node server.js" > Procfile
+- git add . 
+- git commit -m "changes"
+- git push heroku main
 
 - [ ] Test Heroku Link
 
