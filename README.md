@@ -25,5 +25,4 @@
 - git add . 
 - git commit -m "changes"
 - git push heroku main
-
-- [ ] Test Heroku Link
+- test Heroku Link
